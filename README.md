@@ -110,18 +110,13 @@ Automatizar parcialmente el proceso y **apoyarse en tecnología (biometría, not
 
 
 ---
-### 🎨 Diseño de oportunidades
-#### 📊 1. Aviso  de Asistencia Baja
-![Aviso](imagenes/Aviso.png)
+## 🧩 Diseños de Oportunidades
 
-#### 🤝 2. Donación de Asistencia
-![Donar asistencia](imagenes/Donacion.png)
+| Mockup                         | Descripción breve                                                  | Imagen                                |
+|-------------------------------|----------------------------------------------------------------------|----------------------------------------|
+| 📱 Aviso (alumno)             | Notificación por asistencia baja                                   | ![🔗](imagenes/Aviso.png)             |
+| 🤝 Donación de asistencia     | Interfaz de transferencia de % entre alumnos                       | ![🔗](imagenes/Donacion.png)           |
+| 🧾 Justificación de faltas    | Formulario con fecha, sesión y motivo seleccionable                | ![🔗](imagenes/Justificacion.png)      |
+| 🧬 Registro con huella dactilar | Lectura biométrica que rellena automáticamente el Excel             | ![🔗](imagenes/Huella_Dactilar.png)    |
 
-#### 📄 3. Justificación de Faltas
-![Justificación de faltas](imagenes/Justificacion.png)
-
-#### 🧬 4. Registro Biométrico con Huella
-![Registro biométrico](imagenes/Huella_Dactilar.png)
-
-
-
+---
