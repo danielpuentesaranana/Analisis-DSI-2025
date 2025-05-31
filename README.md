@@ -111,17 +111,17 @@ Automatizar parcialmente el proceso y **apoyarse en tecnología (biometría, not
 
 ---
 ### 🎨 Diseño de oportunidades
-#### 📊 1. Aviso Automático de Asistencia Baja
-![Aviso automático](Imagenes/)
+#### 📊 1. Aviso  de Asistencia Baja
+![Aviso](imagenes/Aviso.png)
 
 #### 🤝 2. Donación de Asistencia
-![Donar asistencia](Imagenes/Donacion.png)
+![Donar asistencia](imagenes/Donacion.png)
 
 #### 📄 3. Justificación de Faltas
-![Justificación de faltas](Imagenes/)
+![Justificación de faltas](imagenes/Justificacion.png)
 
 #### 🧬 4. Registro Biométrico con Huella
-![Registro biométrico](Imagenes/)
+![Registro biométrico](imagenes/Huella_Dactilar.png)
 
 
 
