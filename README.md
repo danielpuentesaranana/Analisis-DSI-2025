@@ -57,8 +57,8 @@ Como estudiante de GII, observo que pese a ser el grupo con mayor numero de inte
 
 | Alumno           | Asistencia |
 |------------------|------------|
-| Gerson Rafael    | 15%        |
-| Marco Vallejo    | 19%        |
+| Alumno 71    | 8%        |
+| Alumno 67    | 15%        |
 
 *Importante* algunos alumnos tienen dispensa por eso algún valor es tan bajo. Esto se ve tambien reflejado en las notas de la evaluacion continua donde la gente con una baja asistencia tiene notas <5, mientras los frecuentes asistentes tienen notas superiores.
 
@@ -111,7 +111,7 @@ Automatizar parcialmente el proceso y **apoyarse en tecnología (biometría, not
 
 ---
 ## 🧩 Diseños de Oportunidades
-
+⚠️ He puesto nombres aleatorios de la hoja de cálculo pero por confidencialidad podriamos poner el número de carnet del alumno ⚠️
 | Mockup                         | Descripción breve                                                  | Imagen                                |
 |-------------------------------|----------------------------------------------------------------------|----------------------------------------|
 | 📱 Aviso (alumno)             | Notificación por asistencia baja                                   | ![🔗](imagenes/Aviso.png)             |
